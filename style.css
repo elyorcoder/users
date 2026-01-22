@@ -36,7 +36,7 @@ body{
 .cards{
     color: rgb(224, 224, 224);
     width: 100%;
-    margin-top: 200px;
+    margin-top: 40px;
     display: flex;
     align-items: center;
     gap: 15px;
